@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-shift-b": "arrow-debug:toggle"
+  }
+}

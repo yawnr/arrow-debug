@@ -1,0 +1,18 @@
+{
+  "name": "arrow-debug",
+  "main": "./lib/arrow-debug",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "arrow-debug:toggle"
+  },
+  "repository": "https://github.com/atom/arrow-debug",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
