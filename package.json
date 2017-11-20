@@ -1,10 +1,9 @@
 {
   "name": "arrow-debug",
   "main": "./lib/arrow-debug",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom package for quickly adding a debugger to an arrow body",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "arrow-debug:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
