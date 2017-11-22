@@ -1,7 +1,7 @@
 {
   "name": "arrow-debug",
   "main": "./lib/arrow-debug",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Atom package for quickly adding a debugger to an arrow body",
   "keywords": [],
   "activationCommands": {
